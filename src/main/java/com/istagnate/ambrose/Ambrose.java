@@ -23,7 +23,6 @@ import java.util.stream.Collectors;
 public class Ambrose {
     public static final String MOD_ID = "ambrose";
     // Directly reference a log4j logger.
-    // added a comment
     private static final Logger LOGGER = LogManager.getLogger();
 
     public Ambrose() {
